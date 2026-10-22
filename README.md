@@ -29,4 +29,7 @@ This project involved building and configuring a virtualized Windows domain envi
 # Project Implementation
 **1. Computer and Lab Setup**  
 <br>
-<img width="50%" height="50%" alt="image22" src="https://github.com/user-attachments/assets/7ba15225-81f8-4916-947e-d45292a457a7" />
+<img width="50%" height="50%" alt="image22" src="https://github.com/user-attachments/assets/7ba15225-81f8-4916-947e-d45292a457a7" />   
+Installed a spare HDD to provide additional storage for the lab environment.    <br>  
+<img width="50%" height="50%" alt="2  partition" src="https://github.com/user-attachments/assets/e84e535d-e333-468b-b067-d83ed5c10882" />  
+Initialized and partitioned the disk using Windows Disk Management.  <br>  
