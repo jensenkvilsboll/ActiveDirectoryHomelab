@@ -85,6 +85,10 @@ The focus of this section will be creating users, organizational units, and secu
 <img width="50%" height="50%" alt="30usb" src="https://github.com/user-attachments/assets/5d5cabf5-7308-4b81-b160-f0097af7d981" />  <br>
 -This policy will restrict USB storage devices demonstration data protection. To edit this policy, edit Workstation Security Policy> Computer Configuration> Policies> Administrative Templates> System> Removable Storage Access> All Removable Storage classes: Deny all access.  <br>  
 
+-After configuring the GPOs, run gpupdate and gpresult /r, to verify changes.  <br>  
+**3. Troubleshooting and Verification**  
+
+
 
 
 
