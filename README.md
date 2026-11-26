@@ -84,7 +84,7 @@ The focus of this section will be creating users, organizational units, and secu
 -This policy will configure automatic Windows Update behavior demonstrating patch management. To edit this policy, edit Workstation Security Policy> Computer Configuration> Policies> Administrative Templates> Windows Components> Windows Update> Configure Automatic Updates.  <br>  
 <img width="50%" height="50%" alt="30usb" src="https://github.com/user-attachments/assets/5d5cabf5-7308-4b81-b160-f0097af7d981" />  <br>
 -This policy will restrict USB storage devices demonstration data protection. To edit this policy, edit Workstation Security Policy> Computer Configuration> Policies> Administrative Templates> System> Removable Storage Access> All Removable Storage classes: Deny all access.  <br>  
-
+<img width="50%" height="50%" alt="31 gpupdate" src="https://github.com/user-attachments/assets/499af4b3-a134-43b2-892d-277ab4e60928" />  <br>
 -After configuring the GPOs, run gpupdate and gpresult /r, to verify changes.  <br>  
 **3. Troubleshooting and Verification**  
 
